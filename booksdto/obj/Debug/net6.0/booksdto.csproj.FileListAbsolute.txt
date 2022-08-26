@@ -1,0 +1,15 @@
+D:\C#\booksdto\bin\Debug\net6.0\booksdto.exe
+D:\C#\booksdto\bin\Debug\net6.0\booksdto.deps.json
+D:\C#\booksdto\bin\Debug\net6.0\booksdto.runtimeconfig.json
+D:\C#\booksdto\bin\Debug\net6.0\booksdto.dll
+D:\C#\booksdto\bin\Debug\net6.0\booksdto.pdb
+D:\C#\booksdto\obj\Debug\net6.0\booksdto.csproj.AssemblyReference.cache
+D:\C#\booksdto\obj\Debug\net6.0\booksdto.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\booksdto\obj\Debug\net6.0\booksdto.AssemblyInfoInputs.cache
+D:\C#\booksdto\obj\Debug\net6.0\booksdto.AssemblyInfo.cs
+D:\C#\booksdto\obj\Debug\net6.0\booksdto.csproj.CoreCompileInputs.cache
+D:\C#\booksdto\obj\Debug\net6.0\booksdto.dll
+D:\C#\booksdto\obj\Debug\net6.0\refint\booksdto.dll
+D:\C#\booksdto\obj\Debug\net6.0\booksdto.pdb
+D:\C#\booksdto\obj\Debug\net6.0\booksdto.genruntimeconfig.cache
+D:\C#\booksdto\obj\Debug\net6.0\ref\booksdto.dll
