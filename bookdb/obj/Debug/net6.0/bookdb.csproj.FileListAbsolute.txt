@@ -1,0 +1,15 @@
+D:\C#\bookdb\bin\Debug\net6.0\bookdb.exe
+D:\C#\bookdb\bin\Debug\net6.0\bookdb.deps.json
+D:\C#\bookdb\bin\Debug\net6.0\bookdb.runtimeconfig.json
+D:\C#\bookdb\bin\Debug\net6.0\bookdb.dll
+D:\C#\bookdb\bin\Debug\net6.0\bookdb.pdb
+D:\C#\bookdb\obj\Debug\net6.0\bookdb.csproj.AssemblyReference.cache
+D:\C#\bookdb\obj\Debug\net6.0\bookdb.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\bookdb\obj\Debug\net6.0\bookdb.AssemblyInfoInputs.cache
+D:\C#\bookdb\obj\Debug\net6.0\bookdb.AssemblyInfo.cs
+D:\C#\bookdb\obj\Debug\net6.0\bookdb.csproj.CoreCompileInputs.cache
+D:\C#\bookdb\obj\Debug\net6.0\bookdb.dll
+D:\C#\bookdb\obj\Debug\net6.0\refint\bookdb.dll
+D:\C#\bookdb\obj\Debug\net6.0\bookdb.pdb
+D:\C#\bookdb\obj\Debug\net6.0\bookdb.genruntimeconfig.cache
+D:\C#\bookdb\obj\Debug\net6.0\ref\bookdb.dll
